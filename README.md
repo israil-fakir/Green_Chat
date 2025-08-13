@@ -87,10 +87,10 @@ PORT=3000</code></pre>
 
 <h2 id="screenshots">📸 Screenshots</h2>
 <h3>Signup Page:</h3>
-  <img src="output\signup new.png" alt="Signup Page" width="">
+  <img src="output\signup new.png" alt="Signup Page" width="70%">
 <br/>
 <h3>Login Page:</h3>
-  <img src="output\login new.png" alt="Login Page" width="">
+  <img src="output\login new.png" alt="Login Page" width="70%">
 <br/>
 <h3>Home page Page:</h3>
   <img src="output\home new.png" alt="Chat Interface" width="">
