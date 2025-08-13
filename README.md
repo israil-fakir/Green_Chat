@@ -92,7 +92,7 @@ PORT=3000</code></pre>
 <h3>Login Page:</h3>
   <img src="output\login new.png" alt="Login Page" width="70%">
 <br/>
-<h3>Home page Page:</h3>
+<h3>Home Page:</h3>
   <img src="output\home new.png" alt="Chat Interface" width="">
 
   <h2>📊 Performance Highlights</h2>
